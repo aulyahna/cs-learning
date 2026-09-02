@@ -35,3 +35,4 @@ numbers = [1, 3, 5, 7, 9, 11, 13, 15]
 result = binary_search(numbers, 7)
 print(result)  # Output: 3 (indeks dari angka 7 dalam daftar)
 # Binary Search lebih efisien daripada Linear Search karena mengurangi jumlah elemen yang harus diperiksa dengan membagi daftar menjadi dua bagian setiap kali.
+# Practicing Git branch 
