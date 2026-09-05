@@ -16,4 +16,4 @@ A personal repository documenting my journey learning Computer Science.
 
 ## Current Focus
 
-Buildig stronger foundations in algorithms, data structures, and software development.
+Learning algortihms adn building stronger foundations in algorithms, data structures, and software development.
